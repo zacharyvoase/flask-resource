@@ -16,7 +16,7 @@ setup(
     author='Zachary Voase',
     author_email='z@zacharyvoase.com',
     url='https://github.com/zacharyvoase/flask-resource',
-    description="Build resource-oriented apps with Flask.",
+    description="Build resource-oriented Web apps with Flask.",
     long_description=long_description,
     packages=find_packages(exclude=('tests',)),
 )

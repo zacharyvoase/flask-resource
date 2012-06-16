@@ -1,6 +1,6 @@
-# flask-resource
+# Flask-Resource
 
-flask-resource is a [Flask][] extension for writing resource-oriented Web
+Flask-Resource is a [Flask][] extension for writing resource-oriented Web
 applications.
 
   [flask]: http://flask.pocoo.org/

@@ -11,7 +11,7 @@ with open('README.rst') as readme:
 
 
 setup(
-    name='flask-resource',
+    name='Flask-Resource',
     version='0.0.1',
     author='Zachary Voase',
     author_email='z@zacharyvoase.com',

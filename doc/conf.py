@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# flask-resource documentation build configuration file, created by
+# Flask-Resource documentation build configuration file, created by
 # sphinx-quickstart on Sat Jun 16 22:48:07 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'flask-resource'
+project = u'Flask-Resource'
 copyright = u'2012, Zachary Voase'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'flask-resource.tex', u'flask-resource Documentation',
+  ('index', 'Flask-Resource.tex', u'Flask-Resource Documentation',
    u'Zachary Voase', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'flask-resource', u'flask-resource Documentation',
+    ('index', 'Flask-Resource', u'Flask-Resource Documentation',
      [u'Zachary Voase'], 1)
 ]
 
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'flask-resource', u'flask-resource Documentation',
-   u'Zachary Voase', 'flask-resource', 'One line description of project.',
+  ('index', 'Flask-Resource', u'Flask-Resource Documentation',
+   u'Zachary Voase', 'Flask-Resource', 'One line description of project.',
    'Miscellaneous'),
 ]
 
